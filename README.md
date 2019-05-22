@@ -9,7 +9,7 @@ This repository provides a simple aplication that uses socket connection to send
   - SO -> Linux Ubuntu
   - Programming Language -> C/C++
 
-### Server
+### Run Server
 Create a simple socket server, to print a message sent by client.
 
 - 1: Using the terminal enter in repository /Server folder and type the command:  
@@ -19,7 +19,7 @@ Create a simple socket server, to print a message sent by client.
 
 		./server.o
 
-### Client
+### Run Client
 Create a simple client socket connection, to send a message for server.
 
 - 1: Using the terminal enter in repository /Client folder and type the command:  
