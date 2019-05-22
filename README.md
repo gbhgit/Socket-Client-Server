@@ -18,9 +18,9 @@ make clean
 make
 ```
 - 2: To run, type in the terminal:
-
-		./server.o
-
+```c++
+./server.o
+```
 ### Run Client
 Create a simple client socket connection, to send a message for server.
 
@@ -30,5 +30,6 @@ make clean
 make
 ```
 - 2: To run, type in the terminal:
-
-		./client.o <IP ADDRESS>
+```c++
+./client.o <IP ADDRESS>
+```
