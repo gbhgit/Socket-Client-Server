@@ -12,7 +12,7 @@ This repository provides a simple aplication that uses socket connection to send
 ### Run Server
 Create a simple socket server, to print a message sent by client.
 
-- 1: Using the terminal enter in repository /Server folder and type the command:  
+- 1: Using the terminal enter in repository /server folder and type the command:  
 
 		g++ -std=c++11 server.cpp -o server.o
 - 2: To run, type in the terminal:
@@ -22,7 +22,7 @@ Create a simple socket server, to print a message sent by client.
 ### Run Client
 Create a simple client socket connection, to send a message for server.
 
-- 1: Using the terminal enter in repository /Client folder and type the command:  
+- 1: Using the terminal enter in repository /client folder and type the command:  
 
 		g++ -std=c++11 client.cpp -o client.o
 - 2: To run, type in the terminal:
