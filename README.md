@@ -14,7 +14,8 @@ Create a simple socket server, to print a message sent by client.
 
 - 1: Using the terminal enter in repository /server folder and type the command:  
 
-		g++ -std=c++11 server.cpp -o server.o
+    make clean
+    make
 - 2: To run, type in the terminal:
 
 		./server.o
@@ -24,7 +25,8 @@ Create a simple client socket connection, to send a message for server.
 
 - 1: Using the terminal enter in repository /client folder and type the command:  
 
-		g++ -std=c++11 client.cpp -o client.o
+		make clean
+    make
 - 2: To run, type in the terminal:
 
 		./client.o <IP ADDRESS>
