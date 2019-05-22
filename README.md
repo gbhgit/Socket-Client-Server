@@ -13,9 +13,10 @@ This repository provides a simple aplication that uses socket connection to send
 Create a simple socket server, to print a message sent by client.
 
 - 1: Using the terminal enter in repository /server folder and type the command:  
-
-    make clean
-    make
+```c++
+make clean
+make
+```
 - 2: To run, type in the terminal:
 
 		./server.o
@@ -24,9 +25,10 @@ Create a simple socket server, to print a message sent by client.
 Create a simple client socket connection, to send a message for server.
 
 - 1: Using the terminal enter in repository /client folder and type the command:  
-
-		make clean
-    make
+```c++
+make clean
+make
+```
 - 2: To run, type in the terminal:
 
 		./client.o <IP ADDRESS>
