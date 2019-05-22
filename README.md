@@ -12,7 +12,7 @@ This repository provides a simple aplication that uses socket connection to send
 ### Run Server
 Create a simple socket server, to print a message sent by client.
 
-- 1: Using the terminal enter in repository */server* folder and type the command:  
+- 1: Using the terminal enter in repository _/server_ folder and type the command:  
 ```c++
 make clean
 make
@@ -24,7 +24,7 @@ make
 ### Run Client
 Create a simple client socket connection, to send a message for server.
 
-- 1: Using the terminal enter in repository */client* folder and type the command:  
+- 1: Using the terminal enter in repository _/client_ folder and type the command:  
 ```c++
 make clean
 make
